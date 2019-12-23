@@ -1817,7 +1817,7 @@ ul.icons {
   background-size: cover;
   border-top: 0;
   display: -ms-flexbox;
-  height: 42rem !important;
+  height: 35rem !important;
   min-height: 35rem;
   overflow: hidden;
   position: relative;
@@ -2056,7 +2056,7 @@ ul.icons {
   body.is-preload #banner:before {
     opacity: 1; }
 
-/* CTA */
+/* CTA  */
 #cta {
   background-color: #ce1b28;
   color: rgba(255, 255, 255, 0.75);

@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="924d4a2e-d622-446f-82c0-25952dc2a199" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -13,20 +14,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="114" column="46" lean-forward="true" selection-start-line="114" selection-start-column="46" selection-end-line="114" selection-end-column="46" />
+            <state relative-caret-position="168">
+              <caret line="37" column="35" lean-forward="true" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/elements.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="112">
+              <caret line="50" column="54" selection-start-line="50" selection-start-column="50" selection-end-line="50" selection-end-column="54" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/css/main.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+            <state relative-caret-position="117">
+              <caret line="2815" column="28" lean-forward="true" selection-start-line="2815" selection-start-column="28" selection-end-line="2815" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -65,22 +75,20 @@
         <entry file="file://$PROJECT_DIR$/CREDITS.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="204">
-              <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+              <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/images/banner.jpg">
-          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>banner</find>
       <find>cta</find>
+      <find>CE1B28</find>
+      <find>list</find>
+      <find>bold</find>
+      <find>banner</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -161,7 +169,7 @@
       <option name="presentableId" value="Default" />
       <updated>1576990397487</updated>
       <workItem from="1576990398900" duration="304000" />
-      <workItem from="1576990761539" duration="10128000" />
+      <workItem from="1576990761539" duration="15555000" />
     </task>
     <task id="LOCAL-00001" summary="update project section">
       <created>1577040676789</created>
@@ -177,11 +185,18 @@
       <option name="project" value="LOCAL" />
       <updated>1577041167618</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add professional skill section">
+      <created>1577041724996</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1577041724996</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10432000" />
+    <option name="totallyTimeSpent" value="15859000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -215,7 +230,9 @@
     <MESSAGE value="update project" />
     <MESSAGE value="update project section" />
     <MESSAGE value="Update size of main section" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update size of main section" />
+    <MESSAGE value="Add professional skill section" />
+    <MESSAGE value="Update project &amp; interest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update project &amp; interest" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/git">
@@ -233,13 +250,6 @@
     <entry file="file://$PROJECT_DIR$/images/pic02.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CREDITS.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/pic03.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -249,17 +259,31 @@
     <entry file="file://$PROJECT_DIR$/images/hadoop.jpg">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+    <entry file="file://$PROJECT_DIR$/CREDITS.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        <state relative-caret-position="204">
+          <caret line="12" column="44" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/elements.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="112">
+          <caret line="50" column="54" selection-start-line="50" selection-start-column="50" selection-end-line="50" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="114" column="46" lean-forward="true" selection-start-line="114" selection-start-column="46" selection-end-line="114" selection-end-column="46" />
+        <state relative-caret-position="168">
+          <caret line="37" column="35" lean-forward="true" selection-start-line="37" selection-start-column="35" selection-end-line="37" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="2815" column="28" lean-forward="true" selection-start-line="2815" selection-start-column="28" selection-end-line="2815" selection-end-column="28" />
         </state>
       </provider>
     </entry>
