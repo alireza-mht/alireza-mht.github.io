@@ -665,6 +665,8 @@ table.alt tbody tr td {
   display: -webkit-flex;
   display: -ms-flex;
   display: flex;
+  align-items: center;
+  justify-content: center;
   -moz-flex-wrap: wrap;
   -webkit-flex-wrap: wrap;
   -ms-flex-wrap: wrap;
@@ -694,7 +696,8 @@ table.alt tbody tr td {
   .highlights > :nth-child(3n + 1) {
     padding-left: 0; }
   .highlights > :nth-child(3n) {
-    padding-right: 0; }
+    padding-right: 0;
+    padding-bottom:20px; }
   .highlights > :nth-child(3n + 1),
   .highlights > :nth-child(3n) {
     width: calc(33.3333333333% + -0.5rem); }
